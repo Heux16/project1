@@ -3,7 +3,7 @@ html{
 }
 .header{
     
-    white-space: nowrap;
+    white-space: wrap;
     width: 100%;
     background-color: white;
     
